@@ -1,4 +1,4 @@
-# Analyzing-Business-Travel-Program-Performance
+# Analyzing Business Travel Program Performance
 
 Company A is an insurance company which sends approximately 100 employees on business travel per month. When booking business travel, Company A employees should shop and make their hotel bookings on the company’s official booking tool, which exclusively offer rates that the Business Travel Program group has negotiated with hotel suppliers Hilton and Marriott. However, due to price competitiveness and/or availability, Company A employees sometimes make bookings outside of the official booking tool.
 
