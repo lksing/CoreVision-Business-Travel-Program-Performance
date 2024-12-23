@@ -17,7 +17,7 @@ This project analyzes CoreVision’s travel data, combined with aggregated marke
 
 The interactive Tableau dashboard can be found [here](https://public.tableau.com/views/CoreVisionBusinessTravelProgramPerformanceDashboard/CoreVision_2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-The SQL queries used to organize and prepare data for the dashboard can be found [here](https://github.com/lksing/CoreVision-Business-Travel-Program-Performance/blob/main/SQL-prep.txt).
+The SQL queries used to organize and prepare data for the dashboard can be found [here](https://github.com/lksing/CoreVision-Business-Travel-Program-Performance/blob/main/SQL-prep.sql).
 
 ![CoreVision_2023 (1)](https://github.com/user-attachments/assets/c3a5cecc-9c37-498b-92ca-fccdd23b9272)
 
