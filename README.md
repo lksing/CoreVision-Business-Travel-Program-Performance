@@ -2,6 +2,8 @@
 
 
 ### Project Background
+In this case study, I demonstrate my skills in presentation, stakeholder communication, SQL, and Tableau in the following scenario:
+
 CoreVision Systems is a global technology company which primarily sells enterprise resource planning software worldwide for small to medium sized businesses. 
 
 As part of the larger company initiative to reduce costs, CoreVision’s Business Travel Program managers need reporting on: 
