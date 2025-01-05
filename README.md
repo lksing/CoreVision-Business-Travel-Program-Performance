@@ -1,10 +1,10 @@
 # CoreVision Business Travel Program Performance
 
-Hi there! If you're short on time, here are examples of my skills in this case study here:
+Hi there! If you're short on time, here are examples of my skills in this case study:
 
-- [SQL](https://github.com/lksing/CoreVision-Business-Travel-Program-Performance/blob/main/SQL-prep.sql)
-- [Tableau](https://public.tableau.com/views/CoreVisionBusinessTravelProgramPerformanceDashboard/CoreVision_2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [Data Modeling](#data-model)
+- [SQL](https://github.com/lksing/CoreVision-Business-Travel-Program-Performance/blob/main/SQL-prep.sql) - several queries I developed using aggregations, joins, and case statements to transform data for visualization.
+- [Tableau](https://public.tableau.com/views/CoreVisionBusinessTravelProgramPerformanceDashboard/CoreVision_2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - the dashboard I created demonstrating my storytelling with data, creation of clear and readable graph, and construction of a what-if analysis. 
+- [Data Modeling](#data-model) - an ERD demonstrating my understanding of data relationships 
 
 Otherwise, feel free to navigate this case study by section:
 - [Project Background](#project-background)
