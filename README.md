@@ -1,8 +1,20 @@
 # CoreVision Business Travel Program Performance
 
+Hi there! If you're short on time, here are examples of my skills in this case study here:
 
-### Project Background
-In this case study, I demonstrate my skills in presentation, stakeholder communication, SQL, and Tableau in the following scenario:
+- [SQL](https://github.com/lksing/CoreVision-Business-Travel-Program-Performance/blob/main/SQL-prep.sql)
+- [Tableau](https://public.tableau.com/views/CoreVisionBusinessTravelProgramPerformanceDashboard/CoreVision_2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Data Modeling](#data-model)
+
+Otherwise, feel free to navigate this case study by section:
+- [Project Background](#project-background)
+- [Executive Summary](#executive-summary)
+- [Data Structure and Validation](#data-structure-and-validation)
+- [Trends](#trends)
+- [Recommendations](#recommendations)
+
+## Project Background
+In this case study, I built upon the Rate Competitiveness project I completed at Sabre, and expanded the scope to explore what a broader travel program analysis would look like for a fictional company, CoreVision Systems. 
 
 CoreVision Systems is a global technology company which primarily sells enterprise resource planning software worldwide for small to medium sized businesses. 
 
@@ -24,19 +36,20 @@ The SQL queries used to organize and prepare data for the dashboard can be found
 ![CoreVision_2023 (1)](https://github.com/user-attachments/assets/c3a5cecc-9c37-498b-92ca-fccdd23b9272)
 
 
-### Executive Summary
+## Executive Summary
 In October 2023, CoreVision has seen a significant $40,000 in cost savings from negotiated travel rates afforded by partnerships with Hilton and Marriott. Key performance indicators have shown that CoreVisions’s negotiated rates in October 2023 are competitive, with the average daily spend of 18% below comparable market rates, and cost savings for the month down 198% from public market rates. To continue the program’s success moving forward, CoreVision should prioritize relationships with Hilton and Marriott and consider negotiating a 3% increase in the negotiated discount rate with Courtyard by Marriott from 20% to 23%, which can win an estimated $13,500 increase in savings. A 3% increase in the negotiated discount rate with Hilton Garden Inn from 15% to 18% can generate an estimated $13,000 in cost savings.
 
 
-### Data Structure and Validation
+## Data Structure and Validation
 The CoreVision Travel Program database structure as seen below consists of four tables: searches, results, bookings, customers.
 
 The SQL queries used to organize and prepare data for the dashboard can be found [here](https://github.com/lksing/CoreVision-Business-Travel-Program-Performance/blob/main/SQL-prep.sql).
 
+### Data Model
 ![CoreVision drawio](https://github.com/user-attachments/assets/317aa19c-a74c-4387-bf86-7aca4882996f)
 
 
-### Trends
+## Trends
 Spending Trends:
 - CoreVision has the most competitive rates in the months of March and October 2023 with average spending 17%+ below the market average for comparable rooms. This corresponds to seasonality patterns of the strongest months of business with largest volumes of bookings. The least competitive rates are in the months of February and May with average spending of 8% and 10%, respectively, below the market average for comparable rooms, corresponding to weakest months of business travel.
 - The full year of 2023 improved over 2022 by main performance indicators of cost savings and average % difference from market daily spend. Average daily spend in 2023 was slightly lower than that of 2022, and the 2023 average % from market daily spend saw improvements in negotiated rates in the second half of the year when compared to 2022. This is due to the months of February and May in the first half of the year which saw least competitive negotiated rates.
@@ -53,7 +66,7 @@ Business Travel Program Success:
 - Besides Residence Inn, all other top 4 brands have on-target competitive average negotiated rates of 15%+ below comparable market rates.
 
 
-### Recommendations
+## Recommendations
 - With 60%+ of top 5 hotel bookings coming from Courtyard by Marriott and Hilton Garden Inn, prioritizing relationships and competitive contracts with these hotel brands are crucial. Maintaining strong booking volume from 2022 and 2023 will keep CoreVision on track to fulfilling negotiation requirements.
 - Consider negotiating a 3% increase in the negotiated discount rate with Courtyard by Marriott from 20% to 23%, which can win an estimated $13,500 increase in savings. If that negotiation succeeds, CoreVision may also have more leverage and can also consider a 3% increase in the negotiated discount rate with Hilton Garden Inn from 15% to 18%, which can generate an estimated $13,000 in cost savings.
 <img width="1171" alt="Screen Shot 2024-12-23 at 5 24 03 PM" src="https://github.com/user-attachments/assets/cd163ab3-ca66-476a-b055-1b3bddb50195" />
