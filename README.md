@@ -2,9 +2,9 @@
 
 Hi there! If you're short on time, here are examples of my skills in this case study:
 
-- [SQL](https://github.com/lksing/CoreVision-Business-Travel-Program-Performance/blob/main/SQL-prep.sql) - several queries I developed using aggregations, joins, and case statements to transform data for visualization.
-- [Tableau](https://public.tableau.com/views/CoreVisionBusinessTravelProgramPerformanceDashboard/CoreVision_2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - the dashboard I created demonstrating my storytelling with data, creation of clear and readable graph, and construction of a what-if analysis. 
-- [Data Modeling](#data-model) - an ERD demonstrating my understanding of data relationships 
+- Tableau - the [dashboard](https://public.tableau.com/views/CoreVisionBusinessTravelProgramPerformanceDashboard/CoreVision_2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) I created demonstrating my storytelling with data, creation of clear and readable graph, and construction of a what-if analysis. 
+- Stakeholder Communication - written samples of how I would communicate to various stakeholder audiences, such as [executives](#executive-summary) and [managers](#trends).
+- Data Modeling - an [ERD](#data-model) demonstrating my understanding of data relationships
 
 Otherwise, feel free to navigate this case study by section:
 - [Project Background](#project-background)
