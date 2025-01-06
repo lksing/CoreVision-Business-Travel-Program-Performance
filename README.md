@@ -31,8 +31,6 @@ This project analyzes CoreVision’s travel data, combined with aggregated marke
 
 The interactive Tableau dashboard can be found [here](https://public.tableau.com/views/CoreVisionBusinessTravelProgramPerformanceDashboard/CoreVision_2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-The SQL queries used to organize and prepare data for the dashboard can be found [here](https://github.com/lksing/CoreVision-Business-Travel-Program-Performance/blob/main/SQL-prep.sql).
-
 ![CoreVision_2023 (1)](https://github.com/user-attachments/assets/c3a5cecc-9c37-498b-92ca-fccdd23b9272)
 
 
@@ -42,8 +40,6 @@ In October 2023, CoreVision has seen a significant $40,000 in cost savings from 
 
 ## Data Structure and Validation
 The CoreVision Travel Program database structure as seen below consists of four tables: searches, results, bookings, customers.
-
-The SQL queries used to organize and prepare data for the dashboard can be found [here](https://github.com/lksing/CoreVision-Business-Travel-Program-Performance/blob/main/SQL-prep.sql).
 
 ### Data Model
 ![CoreVision drawio](https://github.com/user-attachments/assets/317aa19c-a74c-4387-bf86-7aca4882996f)
