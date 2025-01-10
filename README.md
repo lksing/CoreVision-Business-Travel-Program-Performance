@@ -2,9 +2,9 @@
 
 Hi there! If you're short on time, here are examples of my skills in this case study:
 
-- Tableau - the [dashboard](https://public.tableau.com/views/CoreVisionBusinessTravelProgramPerformanceDashboard/CoreVision_2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) I created demonstrating my storytelling with data, creation of clear and readable graph, and construction of a what-if analysis. 
+- Tableau - the [dashboard](https://public.tableau.com/views/CoreVisionBusinessTravelProgramPerformanceDashboard/CoreVision_2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) I created, demonstrating my storytelling with data, creation of clear and readable graphs, and construction of an actionable what-if analysis. 
 - Stakeholder Communication - written samples of how I would communicate to various stakeholder audiences, such as [executives](#executive-summary) and [managers](#trends).
-- Data Modeling - an [ERD](#data-model) demonstrating my understanding of data relationships
+- Data Modeling - an [ERD](#data-model) demonstrating my understanding of data relationships.
 
 Otherwise, feel free to navigate this case study by section:
 - [Project Background](#project-background)
@@ -14,7 +14,7 @@ Otherwise, feel free to navigate this case study by section:
 - [Recommendations](#recommendations)
 
 ## Project Background
-In this case study, I built upon the Rate Competitiveness project I completed at Sabre, and expanded the scope to explore what a broader travel program analysis would look like for a fictional company, CoreVision Systems. 
+In this case study, I built upon the [Rate Competitiveness project](README.md) I completed at a previous internship, and expanded the scope to explore what a broader travel program analysis would look like for a fictional company, CoreVision Systems. 
 
 CoreVision Systems is a global technology company which primarily sells enterprise resource planning software worldwide for small to medium sized businesses. 
 
@@ -35,7 +35,7 @@ The interactive Tableau dashboard can be found [here](https://public.tableau.com
 
 
 ## Executive Summary
-In October 2023, CoreVision has seen a significant $40,000 in cost savings from negotiated travel rates afforded by partnerships with Hilton and Marriott. Key performance indicators have shown that CoreVisions’s negotiated rates in October 2023 are competitive, with the average daily spend of 18% below comparable market rates, and cost savings for the month down 198% from public market rates. To continue the program’s success moving forward, CoreVision should prioritize relationships with Hilton and Marriott and consider negotiating a 3% increase in the negotiated discount rate with Courtyard by Marriott from 20% to 23%, which can win an estimated $13,500 increase in savings. A 3% increase in the negotiated discount rate with Hilton Garden Inn from 15% to 18% can generate an estimated $13,000 in cost savings.
+In October 2023, CoreVision has seen a significant **$40,000 in cost savings** from negotiated travel rates afforded by partnerships with Hilton and Marriott. Key performance indicators have shown that CoreVisions’s negotiated rates in October 2023 are **competitive**, with the average daily spend of 18% below comparable market rates, and cost savings for the month down 198% from public market rates. To continue the program’s success moving forward, CoreVision should prioritize relationships with Hilton and Marriott and consider **negotiating a 3% increase in the negotiated discount rate** with Courtyard by Marriott from 20% to 23%, which can win an estimated **$13,500 increase in savings**. A 3% increase in the negotiated discount rate with Hilton Garden Inn from 15% to 18% can generate an estimated $13,000 in cost savings.
 
 
 ## Data Structure and Validation
