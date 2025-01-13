@@ -14,7 +14,7 @@ Otherwise, feel free to navigate this case study by section:
 - [Recommendations](#recommendations)
 
 ## Project Background
-In this case study, I built upon the [Rate Competitiveness project]([README.md](https://github.com/lksing/Sabre-Internship-Project-Analyzing-Rate-Competitiveness/blob/main/README.md)) I completed at a previous internship, and expanded the scope to explore what a broader travel program analysis would look like for a fictional company, CoreVision Systems. 
+In this case study, I built upon the [Rate Competitiveness project]([README.md](https://github.com/lksing/Sabre-Internship-Project-Analyzing-Rate-Competitiveness/blob/main/README.md) I completed at a previous internship, and expanded the scope to explore what a broader travel program analysis would look like for a fictional company, CoreVision Systems. 
 
 CoreVision Systems is a global technology company which primarily sells enterprise resource planning software worldwide for small to medium sized businesses. 
 
